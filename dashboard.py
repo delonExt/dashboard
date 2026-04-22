@@ -122,4 +122,4 @@ ax.grid(True, alpha=0.3)
 
 st.pyplot(fig)
 
-st.caption("Copyright © 2024 - Bike Sharing Analysis Project")
+st.caption("Copyright © 2026 - Bike Sharing Analysis Project by Rizki Rianto")
